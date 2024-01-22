@@ -11,7 +11,7 @@ function Header() {
             preserveAspectRatio="xMidYMid meet"
             focusable="false"
             class="style-scope yt-icon pointer"
-            style={{ width: "30px", height: "30px" }}
+            style={{ width: "25px", height: "25px" }}
           >
             <g class="style-scope yt-icon">
               <path
@@ -27,8 +27,8 @@ function Header() {
               viewBox="0 0 97 20"
               preserveAspectRatio="xMidYMid meet"
               focusable="false"
-              class="style-scope yt-icon poinetr"
-              style={{ width: "75px", height: "40px" }}
+              class="style-scope yt-icon pointer"
+              style={{ width: "100px", height: "50px" }}
             >
               <g
                 viewBox="0 0 24 24"
@@ -159,7 +159,7 @@ function Header() {
         <div className="profile-menu">
           <div className="profile-img">
             <img
-              src="https://yt3.ggpht.com/ytc/AMLnZu9vk_jSZZqpKOw6TohZDkc4e2ekKVYPlcioQjttfQ=s176-c-k-c0x00ffffff-no-rj-mo"
+              src="https://media.istockphoto.com/id/1393750072/vi/vec-to/ng%C6%B0%E1%BB%9Di-%C4%91%C3%A0n-%C3%B4ng-bi%E1%BB%83u-t%C6%B0%E1%BB%A3ng-m%C3%A0u-tr%E1%BA%AFng-ph%E1%BA%B3ng-cho-thi%E1%BA%BFt-k%E1%BA%BF-web-h%C3%ACnh-b%C3%B3ng-h%C3%ACnh-minh-h%E1%BB%8Da-ph%E1%BA%B3ng-h%C3%ACnh.jpg?s=612x612&w=0&k=20&c=a5nCVZ2VntgnI208k2e9s3R7qsanly_5B4oKek4pMUA="
               alt=""
               className="dp mxy-15"
             />
